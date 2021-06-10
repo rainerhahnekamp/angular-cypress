@@ -8,4 +8,5 @@ start the application as usual via `npm start`.
 The Cypress tests are located in **/cypress/integration/\*.spec.ts**.
 
 You can find the accompanying article on https://www.hahnekamp.com.
-[![Presentation](https://img.youtube.com/vi/-lWY0X-ybME/0.jpg)]("https://www.youtube.com/watch?v=-lWY0X-ybME")
+
+[![YouTube Presentation]("https://www.youtube.com/watch?v=-lWY0X-ybME")
