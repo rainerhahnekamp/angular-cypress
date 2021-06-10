@@ -9,4 +9,4 @@ The Cypress tests are located in **/cypress/integration/\*.spec.ts**.
 
 You can find the accompanying article on https://www.hahnekamp.com.
 
-[![YouTube Presentation]("https://www.youtube.com/watch?v=-lWY0X-ybME")
+![YouTube Presentation: https://www.youtube.com/watch?v=-lWY0X-ybME]("https://www.youtube.com/watch?v=-lWY0X-ybME")
