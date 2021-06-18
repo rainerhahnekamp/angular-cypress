@@ -6,9 +6,9 @@ import {Component, OnInit} from "@angular/core";
   styleUrls: ["./header.component.scss"],
 })
 export class HeaderComponent implements OnInit {
-  title = "Unforgettable Holidays";
+  title = "";
 
   ngOnInit(): void {
-
+    window.setTimeout(() => this.title = "Unforgettable Holidays", 3000)
   }
 }
